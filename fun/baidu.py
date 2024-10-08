@@ -4,8 +4,8 @@ import requests
 import ujson
 
 # 百度手写识别key
-API_KEY = ""
-SECRET_KEY = ""
+API_KEY = "edKbMckiwaZQUsQI9O97MMAf"
+SECRET_KEY = "pSMtSXtzvFHB2eYvCmhmlg4q2ppHwzdB"
 
 
 def get_manage(base64):
